@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Default mascot. To use your own image, add app/src/main/res/drawable/buddy.png
+     (the app picks "buddy" automatically if it exists). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#7C4DFF"
+        android:pathData="M54,10m-44,44a44,44 0,1 1,88 0a44,44 0,1 1,-88 0" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M38,46m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M70,46m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path android:fillColor="#1E1E2E"
+        android:pathData="M40,47m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#1E1E2E"
+        android:pathData="M72,47m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M38,68 Q54,82 70,68" />
+</vector>
